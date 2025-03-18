@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Ce repo contient un projet personnel. L'objectif de Prudance est d'amener de la transparence dans les relations entre les sociétés et celles et ceux qu'elles emploient.
 
 ## Getting Started
 
